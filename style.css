@@ -41,9 +41,6 @@ a{
 #main{
     padding: 20px;
 }
-#mofm{
-    background-color: rgb(255, 255, 255, 0.1);
-}
 @media(max-width:800px){
     #grid{
         display:block;
